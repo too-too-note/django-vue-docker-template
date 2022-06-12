@@ -1,0 +1,4 @@
+django==3.2
+djangorestframework
+uwsgi==2.0.19
+psycopg2>=2.8
